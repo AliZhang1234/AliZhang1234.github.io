@@ -1,20 +1,18 @@
 # MDwiki
 
-[About](index.md)
+[阿狸的个人空间](index.md)
 
-[English]()
+[影吧]()
 
-  * [A Thought on English](english/english-formula.md)
-  * [Phonetic Phonics](english/Phonetic-Phonics.md)
-  - - - -
-  * # Advanced
-  * [Stress and Syllables](english/stress.md)
+  * [The Lord of the Rings](子网页more material/The Lord of the Rings.md)
+  * [Forrest Gump](子网页more material/Forrest Gump.md)
+  * [The Shawshank Redemption](子网页more material/The Shawshank Redemption.md)
 
-[Math]()
+[书屋]()
 
-  * [Levy Processes](math/levy_processes.md)
+  * [Educated  A Memoir Tara Westover](子网页more material/Educated  A Memoir Tara Westover.md)
 
-[Coding](coding/PythonNote.md)
+[日记本](子网页more material/journal.md)
 
 
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
